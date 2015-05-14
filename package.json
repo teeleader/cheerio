@@ -24,7 +24,7 @@
     "css-select": "~1.0.0",
     "@golfnow/entities": "~2.0.0",
     "htmlparser2": "~3.8.1",
-    "dom-serializer": "~0.1.0",
+    "@golfnow/dom-serializer": "~0.1.0",
     "lodash": "^3.2.0"
   },
   "devDependencies": {
