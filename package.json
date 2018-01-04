@@ -1,6 +1,6 @@
 {
   "name": "@golfnoweng/cheerio",
-  "version": "0.19.0",
+  "version": "0.19.1",
   "description": "Tiny, fast, and elegant implementation of core jQuery designed specifically for the server",
   "author": "Matt Mueller <mattmuelle@gmail.com> (mat.io)",
   "license": "MIT",
@@ -22,9 +22,9 @@
   },
   "dependencies": {
     "css-select": "~1.0.0",
-    "entities": "~1.1.1",
+    "@golfnoweng/entities": "~2.0.0",
     "htmlparser2": "~3.8.1",
-    "dom-serializer": "~0.1.0",
+    "@golfnoweng/dom-serializer": "~0.1.0",
     "lodash": "^3.2.0"
   },
   "devDependencies": {
